@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Elizabeth Miranda"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elizabeth Miranda",
+      "timestamp_ms": 1784951182127,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elizabeth Miranda",
+      "timestamp_ms": 1784168207296,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elizabeth Miranda",
+  "is_still_participant": true,
+  "thread_path": "inbox/elizabethmiranda_1515709423544994",
+  "magic_words": [
+    
+  ]
+}

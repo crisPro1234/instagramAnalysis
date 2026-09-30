@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Olber Yahel"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Olber Yahel",
+      "timestamp_ms": 1786699443879,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olber Yahel",
+      "timestamp_ms": 1786662177486,
+      "content": "Como quieras jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1786661783827,
+      "content": "hablemos por aca si quieres",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olber Yahel",
+      "timestamp_ms": 1786661723738,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1786658560465,
+      "content": "hols",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Olber Yahel",
+  "is_still_participant": true,
+  "thread_path": "inbox/olberyahel_2092757714653314",
+  "magic_words": [
+    
+  ]
+}

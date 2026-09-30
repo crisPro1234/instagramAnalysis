@@ -1,0 +1,202 @@
+[
+  {
+    "timestamp": 1785781726,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/stories/cdl_levelup/3955693678102399186",
+        "href": "https://www.instagram.com/stories/cdl_levelup/3955693678102399186"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "J\u00c3\u00b3venes Level Up CDL"
+              },
+              {
+                "label": "Username",
+                "value": "cdl_levelup"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "18123389788771588"
+  },
+  {
+    "timestamp": 1785192590,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/stories/bili_liz/3950661282437354968",
+        "href": "https://www.instagram.com/stories/bili_liz/3950661282437354968"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": ""
+              },
+              {
+                "label": "Username",
+                "value": "bili_liz"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "18123382927685155"
+  },
+  {
+    "timestamp": 1785192581,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/stories/elizabeth_m.r091/3950142634542656728",
+        "href": "https://www.instagram.com/stories/elizabeth_m.r091/3950142634542656728"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "Elizabeth Miranda"
+              },
+              {
+                "label": "Username",
+                "value": "elizabeth_m.r091"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "18110126441051092"
+  },
+  {
+    "timestamp": 1780701954,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/stories/martu__berardi/3726040661067192493",
+        "href": "https://www.instagram.com/stories/martu__berardi/3726040661067192493"
+      },
+      {
+        "label": "Caption",
+        "value": "\u00f0\u009f\u00a4\u008d\u00f0\u009f\u0092\u008b"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "Marti Berardi"
+              },
+              {
+                "label": "Username",
+                "value": "martu__berardi"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17861973747473150"
+  }
+]

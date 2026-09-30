@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1780426907720,
+      "content": "hola mili perdon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1780374057252,
+      "content": "Hola no tengo ganas de ver a nadie despu\u00c3\u00a9s de lo que pas\u00c3\u00b3 estoy enojada con ustedes por qu\u00c3\u00a9 no fueron capaz de valorar una linda amistad que era conmigo con vos todo bien pero vos me trataste mal haci que no tengo por que aguantar malos tratos de unos compa\u00c3\u00b1eros que no saben valorar la amistad haci que adi\u00c3\u00b3s no tengo quiero seguir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_876705908780593",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Location",
+      "dict": [
+        {
+          "label": "Country",
+          "value": "Argentina"
+        },
+        {
+          "label": "Region",
+          "value": "C\u00c3\u00b3rdoba Province, Argentina"
+        },
+        {
+          "label": "City",
+          "value": "R\u00c3\u00ado Cuarto, C\u00c3\u00b3rdoba"
+        }
+      ]
+    }
+  ],
+  "fbid": "24919723774"
+}

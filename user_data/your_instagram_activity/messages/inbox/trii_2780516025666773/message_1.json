@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a2"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a2",
+      "timestamp_ms": 1786498005686,
+      "content": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a2 sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a2",
+      "timestamp_ms": 1786497386259,
+      "content": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a2 sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a2",
+      "timestamp_ms": 1782256334385,
+      "content": "JAJAJAJAJAJJA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1782252914435,
+      "content": "para la profe de lengua",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a2",
+      "timestamp_ms": 1782090010458,
+      "content": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a2 sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u0093\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a2",
+  "is_still_participant": true,
+  "thread_path": "inbox/trii_2780516025666773",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "el.vaisman"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "el.vaisman",
+      "timestamp_ms": 1786027337463,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "el.vaisman",
+  "is_still_participant": true,
+  "thread_path": "inbox/elvaisman_2277015506385721",
+  "magic_words": [
+    
+  ]
+}

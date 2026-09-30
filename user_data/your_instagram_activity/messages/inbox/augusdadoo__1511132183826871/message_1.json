@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "augusdadoo_"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "augusdadoo_",
+      "timestamp_ms": 1783828288227,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "augusdadoo_",
+      "timestamp_ms": 1783828142244,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "augusdadoo_",
+  "is_still_participant": true,
+  "thread_path": "inbox/augusdadoo__1511132183826871",
+  "magic_words": [
+    
+  ]
+}

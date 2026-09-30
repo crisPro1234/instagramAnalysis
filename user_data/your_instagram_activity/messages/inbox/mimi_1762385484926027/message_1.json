@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "mimi \u00f0\u009f\u0090\u0086"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "mimi \u00f0\u009f\u0090\u0086",
+      "timestamp_ms": 1783123118102,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "mimi \u00f0\u009f\u0090\u0086",
+  "is_still_participant": true,
+  "thread_path": "inbox/mimi_1762385484926027",
+  "magic_words": [
+    
+  ]
+}

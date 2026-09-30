@@ -1,0 +1,42 @@
+{
+  "account_history_registration_info": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Username": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "IP Address": {
+          "href": "",
+          "value": "186.136.246.241",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1778602510
+        },
+        "Email": {
+          "href": "",
+          "value": "diazcaffaro@gmail.com",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Device": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

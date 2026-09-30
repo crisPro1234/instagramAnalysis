@@ -1,0 +1,37 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Name",
+      "vec": [
+        {
+          "value": "Facebook access (mobile): all mobile devices"
+        },
+        {
+          "value": "Mobile network or device users"
+        },
+        {
+          "value": "Owns: OnePlus"
+        },
+        {
+          "value": "Potential mobile network or device change"
+        },
+        {
+          "value": "Recent mobile network or device change"
+        },
+        {
+          "value": "Wi-Fi Usage"
+        },
+        {
+          "value": "Relationship status: single"
+        },
+        {
+          "value": "Education level: High School Graduate"
+        }
+      ]
+    }
+  ],
+  "fbid": "17841424833244965"
+}

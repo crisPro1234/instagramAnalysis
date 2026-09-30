@@ -1,0 +1,97 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Advertisers that have uploaded an audience list containing entries that were matched to your Instagram profile",
+      "vec": [
+        {
+          "value": "CETROGAR"
+        },
+        {
+          "value": "ESV France"
+        },
+        {
+          "value": "FG Medios"
+        },
+        {
+          "value": "Rolex"
+        },
+        {
+          "value": "xlfitnessau"
+        },
+        {
+          "value": "Mundo Amazon"
+        },
+        {
+          "value": "DD Entertainment"
+        },
+        {
+          "value": "Icona Sports"
+        },
+        {
+          "value": "Gupta Media"
+        },
+        {
+          "value": "NBA"
+        },
+        {
+          "value": "Gustavo - El Profesor Canino"
+        },
+        {
+          "value": "Furbedz"
+        },
+        {
+          "value": "Bullmetrix BackUp 4"
+        },
+        {
+          "value": "GrupoSet Latam"
+        },
+        {
+          "value": "Rekket"
+        },
+        {
+          "value": "PayPal Honey"
+        },
+        {
+          "value": "Marpe"
+        },
+        {
+          "value": "Tennis TV"
+        },
+        {
+          "value": "MGC Mutua"
+        },
+        {
+          "value": "Voltra Argentina"
+        },
+        {
+          "value": "Anheuser-Busch_US"
+        },
+        {
+          "value": " Voltra Argentina - BM 03 Full pesos"
+        },
+        {
+          "value": "ABI Argentina"
+        },
+        {
+          "value": "Julian Dias"
+        }
+      ]
+    },
+    {
+      "label": "Advertisers who have uploaded an audience list that was matched to your profile based on interactions you may have had with the advertiser's website, app or store",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Advertisers whose store you visited",
+      "vec": [
+        
+      ]
+    }
+  ],
+  "fbid": "17841424833244965"
+}

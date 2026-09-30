@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Augusto"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Augusto",
+      "timestamp_ms": 1785695292175,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1785693835761,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Augusto",
+      "timestamp_ms": 1785684042294,
+      "content": "okey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1785680328485,
+      "share": {
+        "link": "https://www.instagram.com/stories/_crisdiaz09/3954895628127414283"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Augusto",
+      "timestamp_ms": 1785637746490,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Augusto",
+  "is_still_participant": true,
+  "thread_path": "inbox/augusto_17988733778969163",
+  "magic_words": [
+    
+  ]
+}

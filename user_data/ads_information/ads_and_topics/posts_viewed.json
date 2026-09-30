@@ -1,0 +1,4988 @@
+[
+  {
+    "timestamp": 1786300258,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db0y-0DEQLvZNVWLsvnsPWEC-qcrntwBEcY_Z80/",
+        "href": "https://www.instagram.com/p/Db0y-0DEQLvZNVWLsvnsPWEC-qcrntwBEcY_Z80/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "emiii"
+              },
+              {
+                "label": "Username",
+                "value": "emi_milanesee"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18112112933066754:1786300258::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786316958,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1aQv1lnBd/",
+        "href": "https://www.instagram.com/p/Db1aQv1lnBd/"
+      },
+      {
+        "label": "Caption",
+        "value": "Reu Level Up \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc\u00e2\u009c\u00a8\u00ef\u00b8\u008f\n\n#jesusteama #jovenes #cdl #cristianos"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jovenes"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "cristianos"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jesusteama"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "cdl"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "J\u00c3\u00b3venes Level Up CDL"
+              },
+              {
+                "label": "Username",
+                "value": "cdl_levelup"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18013624169736137:1786316958::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786398721,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1aQv1lnBd/",
+        "href": "https://www.instagram.com/p/Db1aQv1lnBd/"
+      },
+      {
+        "label": "Caption",
+        "value": "Reu Level Up \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc\u00e2\u009c\u00a8\u00ef\u00b8\u008f\n\n#jesusteama #jovenes #cdl #cristianos"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jovenes"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "cristianos"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jesusteama"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "cdl"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "J\u00c3\u00b3venes Level Up CDL"
+              },
+              {
+                "label": "Username",
+                "value": "cdl_levelup"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18013624169736137:1786398721::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786474852,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db4FihMldtrOwoA69kJhK407txlunGpE7F9pjQ0/",
+        "href": "https://www.instagram.com/p/Db4FihMldtrOwoA69kJhK407txlunGpE7F9pjQ0/"
+      },
+      {
+        "label": "Caption",
+        "value": "Y que decirte\u00e2\u0080\u00a6 otro finde de torneo a tu rev\u00c3\u00a9s y de nuevo campeonas 2/2 \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u00a9\u00b9\u00f0\u009f\u00a5\u00b9, siempre es lindo jugar con vos, gracias por este finde tan hermoso junto a vos, a mi mam\u00c3\u00a1 y a todas las personas que apoyaron desde afuera, siempre agradecida por todo. Te adoro @luoddovero28 \u00e2\u009d\u00a4\u00ef\u00b8\u008f\nGracias a estas personitas q nos acompa\u00c3\u00b1aron en todo momento \n@cary_moreno_2013 \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb\n@angie.mab \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb\nA seguir meti\u00c3\u00a9ndole que las cosas buenas llegan @martinrapacchi \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u00a9\u00b9"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "JAZMIN"
+              },
+              {
+                "label": "Username",
+                "value": "jazzmiinmor"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18337208089283283:1786474852::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786484270,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1TaIMGhKk7zTYnHSdL74K_zUPnCA9gfTh2Zs0/",
+        "href": "https://www.instagram.com/p/Db1TaIMGhKk7zTYnHSdL74K_zUPnCA9gfTh2Zs0/"
+      },
+      {
+        "label": "Caption",
+        "value": "insistir, persistir y nunca desistir \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00e2\u009a\u00bd\u00ef\u00b8\u008f\n@clubjuventudunidarc \n@juventudunida.rc"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "santi"
+              },
+              {
+                "label": "Username",
+                "value": "santi.carranza_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18079516361426533:1786484270::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786486685,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1kQ1NiY6Qa6jZ3Z_yag54BEKmtyqqOPc3tjc0/",
+        "href": "https://www.instagram.com/p/Db1kQ1NiY6Qa6jZ3Z_yag54BEKmtyqqOPc3tjc0/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "\u00f0\u009d\u0094\u00b9\u00f0\u009d\u0095\u00a3\u00f0\u009d\u0095\u00a6\u00f0\u009d\u0095\u00a2\u00f0\u009d\u0095\u00a6\u00f0\u009d\u0095\u0096"
+              },
+              {
+                "label": "Username",
+                "value": "fer.bruque"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:17974529490089124:1786486685::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786486805,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db3MAjbgKL5/",
+        "href": "https://www.instagram.com/p/Db3MAjbgKL5/"
+      },
+      {
+        "label": "Caption",
+        "value": "Upper body @alphaneondarksidegym \n\nNo other place like it\n\nSome of the greatest pieces of kit you will in a gym \n\nFull session in order \nHoist Ab crunch x2\nNautilus Nitro Lateral raise x3\nNautilus prone fly x1\nTechno gym pulldown x2\nStar Trac Cable Unilateral lat pulldown x2\nLeverage press x2 \nChest support row x1\nNautilus Decline press x2\n\n@dailychoicesath Jack10\n@gym_pin KC10 \n\nOnline Coaching Enquiring Can Be Found In My Bio \u00f0\u009f\u0094\u0097\n\n#bodybuildingtraining\n#bodybuildingworkout\n#bodybuilder\n#bodybuilding \n#fitness"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "bodybuilder"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "fitness"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "bodybuilding"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "bodybuildingtraining"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "bodybuildingworkout"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://linktr.ee/jkinseyclough"
+              },
+              {
+                "label": "Name",
+                "value": "Jack Kinsey-Clough"
+              },
+              {
+                "label": "Username",
+                "value": "jackkinseyclough"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18149888074512371:1786486805::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786559989,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Dbdp5nhEWTY/",
+        "href": "https://www.instagram.com/p/Dbdp5nhEWTY/"
+      },
+      {
+        "label": "Caption",
+        "value": "Reflexi\u00c3\u00b3n de viernes.\n\nTodos conocemos personas que parecen especialistas en sacarnos de eje.\n\nY s\u00c3\u00ad, a veces cuesta.\n\nPero con los a\u00c3\u00b1os entend\u00c3\u00ad algo que cambi\u00c3\u00b3 mi forma de liderar, de vender y hasta de vivir.\n\nEl problema no es qui\u00c3\u00a9n te provoca.\n\nEl problema es cu\u00c3\u00a1nto poder le das sobre vos.\n\nPorque el d\u00c3\u00ada que alguien consigue manejar tus emociones, deja de controlar una discusi\u00c3\u00b3n\u00e2\u0080\u00a6 y empieza a controlar tus decisiones.\n\nEl liderazgo no se demuestra cuando todo sale bien.\n\nSe demuestra cuando eleg\u00c3\u00ads responder en lugar de reaccionar.\n\nCuando pens\u00c3\u00a1s antes de hablar.\n\nCuando el ego no decide por vos.\n\nCuando entend\u00c3\u00a9s que perder el control puede costarte un cliente, un negocio, un colaborador o una relaci\u00c3\u00b3n.\n\nEl 95% vive reaccionando.\n\nEl 5% elige qui\u00c3\u00a9n quiere ser, incluso en los momentos m\u00c3\u00a1s dif\u00c3\u00adciles.\n\nY esa diferencia, aunque parezca peque\u00c3\u00b1a, termina construyendo destinos completamente distintos.\n\n\u00c2\u00bfRecord\u00c3\u00a1s alguna situaci\u00c3\u00b3n en la que responder, en lugar de reaccionar, cambi\u00c3\u00b3 por completo el resultado?\n\n#Liderazgo #ElCaminoDel5% #InteligenciaEmocional #Liderazgo5% #Empresas Negocios JonatanLoidi"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "elcaminodel5"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "liderazgo"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "liderazgo5"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "inteligenciaemocional"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "empresas"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://linktr.ee/jonatanloidi"
+              },
+              {
+                "label": "Name",
+                "value": "Jonatan Loidi"
+              },
+              {
+                "label": "Username",
+                "value": "jonatanloidi"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18434654620126112:1786559989::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786572176,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbwyJzasWi4/",
+        "href": "https://www.instagram.com/p/DbwyJzasWi4/"
+      },
+      {
+        "label": "Caption",
+        "value": "Reflexi\u00c3\u00b3n de viernes.. donde est\u00c3\u00a1 m\u00c3\u00a1s vigente que nunca..\n.\nLA F\u00c3\u0081BULA DEL PELOTUDO\n\nSe cuenta que en una ciudad del interior, un grupo de personas se divert\u00c3\u00adan con el pelotudo del pueblo. Un pobre infeliz de poca inteligencia, que viv\u00c3\u00ada haciendo peque\u00c3\u00b1os mandados y recibiendo limosnas.\n\nDiariamente, algunos hombres llamaban al pelotudo al bar donde se reun\u00c3\u00adan y le ofrec\u00c3\u00adan escoger entre dos monedas: una de tama\u00c3\u00b1o grande de 50 centavos y otra de menor tama\u00c3\u00b1o, pero de 1 peso.\n\n\u00c3\u0089l siempre agarraba la m\u00c3\u00a1s grande y menos valiosa, lo que era motivo de risas para todos.\n\nUn d\u00c3\u00ada, alguien que observaba al grupo divertirse con el inocente hombre, lo llam\u00c3\u00b3 aparte y le pregunt\u00c3\u00b3 si todav\u00c3\u00ada no hab\u00c3\u00ada percibido que la moneda de mayor tama\u00c3\u00b1o val\u00c3\u00ada menos y \u00c3\u00a9ste le respondi\u00c3\u00b3:\n\n\u00e2\u0080\u0094Lo s\u00c3\u00a9, no soy tan pelotudo\u00e2\u0080\u00a6, vale la mitad, pero el d\u00c3\u00ada que escoja la otra, el jueguito se acaba y no voy a ganar m\u00c3\u00a1s mi moneda.\n\nEsta historia podr\u00c3\u00ada concluir aqu\u00c3\u00ad, como un simple chiste, pero se pueden sacar varias conclusiones:\n\nLa primera: Quien parece pelotudo, no siempre lo es.\n\nLa segunda: \u00c2\u00bfCu\u00c3\u00a1les eran los verdaderos pelotudos de la historia?\n\nLa tercera: Una ambici\u00c3\u00b3n desmedida puede acabar cortando tu fuente de ingresos.\n\nLa cuarta: (pero la conclusi\u00c3\u00b3n m\u00c3\u00a1s interesante) Podemos estar bien, aun cuando los otros no tengan una buena opini\u00c3\u00b3n sobre nosotros. Por lo tanto, lo que importa no es lo que piensan los dem\u00c3\u00a1s de nosotros, sino lo que uno piensa de s\u00c3\u00ad mismo."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://linktr.ee/jonatanloidi"
+              },
+              {
+                "label": "Name",
+                "value": "Jonatan Loidi"
+              },
+              {
+                "label": "Username",
+                "value": "jonatanloidi"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18552995488074981:1786572176::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786572189,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db5M0uskVRj/",
+        "href": "https://www.instagram.com/p/Db5M0uskVRj/"
+      },
+      {
+        "label": "Caption",
+        "value": "Our top Chest Machines, ranked. Drop your number 1 below \n\n1. Strive Chest Press\n2. Nautilus Nitro Vertical Chest Press\n3. Nautilus 1st Gen 10degree Chest Fly\n4. Nautilus Nitro Plus Rear Delt/Pec Fly \n5. Nautilus Nitro Pec Fly\n6. Nautilus 1st Gen 70degree Chest Fly\n7. Strive Chest Press\n8. Nautilus Xpload Incline Chest Press\n9. Strive Rear Delt/Pec Fly\n10. Atlantis Assisted Bench"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://apps.apple.com/au/app/xl-fitness/id6761979329"
+              },
+              {
+                "label": "Name",
+                "value": "XL Fitness | Tech Gym Mulgrave"
+              },
+              {
+                "label": "Username",
+                "value": "xlfitnessau"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18486851992096065:1786572189::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786572238,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbtqFXxCVlS/",
+        "href": "https://www.instagram.com/p/DbtqFXxCVlS/"
+      },
+      {
+        "label": "Caption",
+        "value": "\u00f0\u009f\u0098\u0082 En todos los gimnasios hay personajes que ya tienen apellido\u00e2\u0080\u00a6\n\nY no hace falta decir nombres porque todos sabemos de qui\u00c3\u00a9n hablamos. \u00f0\u009f\u0098\u0085\n\n\u00f0\u009f\u008f\u008a\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f El Nadador: nada de pecho, nada de espalda.\n\u00f0\u009f\u0092\u008a El Tadala Vencido: no levanta nada.\n\u00f0\u009f\u0091\u0089 El Profesor Br\u00c3\u00bajula: solo apunta.\n\u00f0\u009f\u0093\u00ba El Netflix: casi todas las series son malas.\n\u00e2\u008f\u00b3 El Retrato: pasa el tiempo y sigue igual.\n\nAhora te toca a vos\u00e2\u0080\u00a6\u00f0\u009f\u0091\u0087\n\n\u00c2\u00bfQu\u00c3\u00a9 otro \u00e2\u0080\u009capellido\u00e2\u0080\u009d agregar\u00c3\u00adas a la lista? \u00f0\u009f\u0098\u0082\n\nLos mejores los vamos a leer y capaz aparecen en la pr\u00c3\u00b3xima parte. \u00f0\u009f\u0098\u008e\u00f0\u009f\u0094\u00a5\n\n#DZFitness #GymHumor #HumorFitness #GymLife #Gimnasio Entrenamiento Fitness SinExcusas MemesGym"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gimnasio"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gymlife"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gymhumor"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "humorfitness"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "dzfitness"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://wa.link/95l19e"
+              },
+              {
+                "label": "Name",
+                "value": "DZ Fitness Club"
+              },
+              {
+                "label": "Username",
+                "value": "dzfitnessclub"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18388269619201992:1786572238::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786572238,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db4DD51oBThNF1RjMJ_IrnnCCnPcCZZUHic5YQ0/",
+        "href": "https://www.instagram.com/p/Db4DD51oBThNF1RjMJ_IrnnCCnPcCZZUHic5YQ0/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "santino palacios"
+              },
+              {
+                "label": "Username",
+                "value": "38palacios_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18171681616436865:1786572238::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786647137,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbemaI0Fd8V/",
+        "href": "https://www.instagram.com/p/DbemaI0Fd8V/"
+      },
+      {
+        "label": "Caption",
+        "value": "La incoherencia ajena rara vez\nenga\u00c3\u00b1a a quien cultiva la percepci\u00c3\u00b3n,\nporque cuando tu mente es atenta,\nla falsa virtud y la hipocres\u00c3\u00ada\npierden el poder\nde manipular tu visi\u00c3\u00b3n.\n\nPero la verdadera sabidur\u00c3\u00ada surge\ncuando entiendes\nque intentar cambiar al mentiroso\no luchar contra quien vive en el lodo\nsolo desgasta\ntu propia dignidad,\ndonde el discernimiento deber\u00c3\u00ada prevalecer.\n\nEl estoico entiende:\nno te preocupes por desenmascarar cada farsa\nni por rebajarte al nivel de la mediocridad.\nPreoc\u00c3\u00bapate por preservar tu car\u00c3\u00a1cter\ny vivir de acuerdo con la verdad que has elegido practicar.\n\nCuando un hombre vive demasiado tiempo\nignorando las intenciones de quienes lo rodean,\npuede olvidar\nel verdadero valor\nde la cautela y el discernimiento.\n\nCuando nunca cuestiona\nlas apariencias,\nel fingimiento\no los consejos vac\u00c3\u00ados,\npuede dejar de proteger\nsu propia paz.\n\nEs en ese momento\ncuando surge la madurez.\nY es en ese momento\ncuando un hombre descubre\nsi realmente\ngobierna su propia mente.\n\nSi este conjunto de verdades tuvo sentido para ti,\nes porque en alg\u00c3\u00ban momento\ntambi\u00c3\u00a9n comprendiste\nque la mayor libertad\nque un hombre puede alcanzar\nno consiste\nen responder a la necedad del mundo.\n\nConsiste\nen entender que mientras est\u00c3\u00a9 vivo,\nsiempre existe\nla oportunidad\nde actuar con lucidez\ny construir\nuna vida aut\u00c3\u00a9ntica.\n\n\u00f0\u009f\u0093\u0098 Estos principios se profundizan en el PDF Forja de la Mente \u00e2\u0080\u0094\nun entrenamiento pr\u00c3\u00a1ctico para desarrollar\ndiscernimiento, autocontrol\ny verdadera fuerza psicol\u00c3\u00b3gica.\n\n\u00f0\u009f\u0091\u0089 El enlace en la bio no es para quien se deja enga\u00c3\u00b1ar por falsas apariencias y conflictos innecesarios.\nEs para quien ha decidido desarrollar discernimiento y fortalecer su propia mente.\n\n\u00e2\u0080\u0094 @centralestoica"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://bio.site/Central.Estoica"
+              },
+              {
+                "label": "Name",
+                "value": "Estoicismo | Disciplina Mental | Filosof\u00c3\u00ada"
+              },
+              {
+                "label": "Username",
+                "value": "centralestoica"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18454513696137942:1786647137::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786656381,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Dbef20llK4Z/",
+        "href": "https://www.instagram.com/p/Dbef20llK4Z/"
+      },
+      {
+        "label": "Caption",
+        "value": "#foryou #tristerealidad#familiajuguito\u00f0\u009f\u00a7\u0083"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "familiajuguito\u00f0\u009f\u00a7\u0083"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "foryou"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "tristerealidad"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": ""
+              },
+              {
+                "label": "Username",
+                "value": "gmx.vik"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18128789008658971:1786656381::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786657536,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbokcPWiVtn/",
+        "href": "https://www.instagram.com/p/DbokcPWiVtn/"
+      },
+      {
+        "label": "Caption",
+        "value": "\u00f0\u009f\u0094\u00aa\u00f0\u009f\u0094\u00aatengo sue\u00c3\u00b1o..."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "\u00f0\u009f\u008e\u0080\u00db\u009e\u00f0\u009d\u0094\u00aa\u00f0\u009d\u0094\u009e\u00f0\u009d\u0094\u00af\u00f0\u009d\u0094\u00a0\u00f0\u009d\u0094\u00a2\u00f0\u009d\u0094\u00a9\u00f0\u009d\u0094\u009e\u00db\u009e\u00f0\u009f\u008e\u0080"
+              },
+              {
+                "label": "Username",
+                "value": "wildd._.flowerr._"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:17901818616521959:1786657536::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786657558,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db52m86GlVt/",
+        "href": "https://www.instagram.com/p/Db52m86GlVt/"
+      },
+      {
+        "label": "Caption",
+        "value": "SORPRENDIDOS CUANDO RECOG\u00c3\u008dAN DINERO DE EXTORSI\u00c3\u0093N\n\nInvestigadores de la DIPANDA capturaron a Eduardo \u00e2\u0080\u009cN\u00e2\u0080\u009d, de 24 a\u00c3\u00b1os, y remitieron a una menor de 17 a\u00c3\u00b1os en la carretera a Las Tapias, zona 25.\n\nSeg\u00c3\u00ban la PNC, fueron sorprendidos cuando recog\u00c3\u00adan un paquete que simulaba Q1,500 exigidos a una v\u00c3\u00adctima mediante llamadas intimidatorias.\n\nLes incautaron tres tel\u00c3\u00a9fonos y la motocicleta en la que se movilizaban. De acuerdo con la investigaci\u00c3\u00b3n preliminar, estar\u00c3\u00adan vinculados a un grupo delictivo."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "El Regional"
+              },
+              {
+                "label": "Username",
+                "value": "regional_gt"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18094650995071433:1786657558::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786657558,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db9QbkEndXW/",
+        "href": "https://www.instagram.com/p/Db9QbkEndXW/"
+      },
+      {
+        "label": "Caption",
+        "value": "Muchas veces creemos que necesitamos m\u00c3\u00a1s tiempo o m\u00c3\u00a1s motivaci\u00c3\u00b3n, cuando en realidad lo que hace la diferencia son los h\u00c3\u00a1bitos y los sistemas que repetimos cada d\u00c3\u00ada. Organizar mejor el hogar, planificar las compras, recordar lo importante, cocinar de forma pr\u00c3\u00a1ctica y reducir el agotamiento mental son peque\u00c3\u00b1os cambios que pueden hacer la vida mucho m\u00c3\u00a1s sencilla.\n\nSeguinos para m\u00c3\u00a1s contenido @hilosdicen \u00e2\u009c\u0085\n\nGuard\u00c3\u00a1 esta publicaci\u00c3\u00b3n para consultarla cuando la necesites y compartila con alguien a quien tambi\u00c3\u00a9n pueda servirle. \u00c2\u00bfQu\u00c3\u00a9 otro tema te gustar\u00c3\u00ada ver en la\npr\u00c3\u00b3xima gu\u00c3\u00ada?\u00f0\u009f\u0091\u0087\u00f0\u009f\u008f\u00bb"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": ""
+              },
+              {
+                "label": "Username",
+                "value": "hilosdicen"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18092950670420794:1786657558::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786661222,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db9mV5-lZ5Jnz0Adrics7RSrzzx35C90TLjq4w0/",
+        "href": "https://www.instagram.com/p/Db9mV5-lZ5Jnz0Adrics7RSrzzx35C90TLjq4w0/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "_pela_3323"
+              },
+              {
+                "label": "Username",
+                "value": "simon_3323_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18089756501152001:1786661222::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786661238,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbQqZ6YFm5T/",
+        "href": "https://www.instagram.com/p/DbQqZ6YFm5T/"
+      },
+      {
+        "label": "Caption",
+        "value": "Te gustar\u00c3\u00ada trabajar de lo que te apasiona?\n\nEl fitness cambi\u00c3\u00b3.\n\n\"Hoy ya no alcanza con entrenar. Hace falta aprender a evaluar, planificar y aplicar el conocimiento en la pr\u00c3\u00a1ctica\"\n\nEn ISAM llevamos m\u00c3\u00a1s de 30 a\u00c3\u00b1os formando entrenadores.\n\n\u00e2\u0097\u008fClases en vivo y grabadas.\n\n\u00e2\u0097\u008fModalidad online y presencial.\n\n\u00e2\u0097\u008fCertificaci\u00c3\u00b3n oficial.\n\n\u00e2\u009c\u0093 Casos reales.\n\n\u00e2\u009c\u0093Aplicaci\u00c3\u00b3n pr\u00c3\u00a1ctica desde el primer d\u00c3\u00ada.\n\nInicio: 22 de agosto.\n\nEscrib\u00c3\u00ad la palabra INFO en los comentarios y te enviamos el programa completo.\n\n#Formaci\u00c3\u00b3nProfesional #fitness #cursos\n#personaltrainer #gymmotivation"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "cursos"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gymmotivation"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "personaltrainer"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "formaci\u00c3\u00b3nprofesional"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "fitness"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://wa.link/1pgl3p"
+              },
+              {
+                "label": "Name",
+                "value": "Centro de Capacitaci\u00c3\u00b3n"
+              },
+              {
+                "label": "Username",
+                "value": "isamcapacitacion"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18136764340600356:1786661238::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786661238,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Dbkbhc-kSN8/",
+        "href": "https://www.instagram.com/p/Dbkbhc-kSN8/"
+      },
+      {
+        "label": "Caption",
+        "value": "Another GREAT session today at @rigsgymofficial \nCan\u00e2\u0080\u0099t wait to make this place my main gym within the next 2 weeks.\nDecided to leave in the set up and exit from the tricep extension because I have NO idea how the mentzer brothers ever fit in this thing lmao.\n#gym #training #bodybuilding #fyp"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gym"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "training"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "fyp"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "bodybuilding"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://linktr.ee/trainedby_k"
+              },
+              {
+                "label": "Name",
+                "value": "TBK"
+              },
+              {
+                "label": "Username",
+                "value": "trainedby_k"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18119365300852849:1786661238::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786661238,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db9xWS_lVDx/",
+        "href": "https://www.instagram.com/p/Db9xWS_lVDx/"
+      },
+      {
+        "label": "Caption",
+        "value": "Viaje educativo | 5\u00c2\u00b0 a\u00c3\u00b1o recorri\u00c3\u00b3 C\u00c3\u00b3rdoba y Villa General Belgrano\n\nLos estudiantes de 5\u00c2\u00b0 a\u00c3\u00b1o del Nivel Secundario participaron de una enriquecedora jornada educativa en las ciudades de C\u00c3\u00b3rdoba y Villa General Belgrano, en el marco de una propuesta interdisciplinaria de los espacios curriculares de Historia, Formaci\u00c3\u00b3n para la Vida y el Trabajo, Catequesis y Educaci\u00c3\u00b3n F\u00c3\u00adsica.\n\nEn la ciudad de C\u00c3\u00b3rdoba visitaron la Legislatura de la Provincia, donde pudieron acercarse al funcionamiento de una de las principales instituciones de nuestra democracia. Tambi\u00c3\u00a9n recorrieron la Casa Madre de las Hermanas Terciarias Misioneras Franciscanas, un lugar profundamente significativo para nuestra identidad, nuestra historia y el legado de Madre Mar\u00c3\u00ada del Tr\u00c3\u00a1nsito.\n\nLuego, el viaje continu\u00c3\u00b3 hacia Villa General Belgrano, donde conocieron una f\u00c3\u00a1brica de chocolate y pudieron interiorizarse sobre su proceso de elaboraci\u00c3\u00b3n. La jornada se complet\u00c3\u00b3 con una actividad de trekking, disfrutando del paisaje y promoviendo el encuentro con la naturaleza, la actividad f\u00c3\u00adsica y la convivencia entre compa\u00c3\u00b1eros.\n\nEstas experiencias permiten que los aprendizajes trasciendan las paredes del aula, articulando conocimientos, vivencias y v\u00c3\u00adnculos desde una mirada interdisciplinaria.\n\nAgradecemos a los docentes que acompa\u00c3\u00b1aron y trabajaron para hacer posible esta propuesta y a nuestros estudiantes por vivirla con entusiasmo y responsabilidad.\n\n\u00c2\u00a1Seguimos caminando juntos, aprendiendo tambi\u00c3\u00a9n en el camino!\n\n#ViajeEducativo #QuintoA\u00c3\u00b1o #AprendizajeSituado #CaminandoJuntos #INSC"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "aprendizajesituado"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "viajeeducativo"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "caminandojuntos"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "quintoa\u00c3\u00b1o"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "insc"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://linktr.ee/insc.riocuarto"
+              },
+              {
+                "label": "Name",
+                "value": "Colegio del Carmen INSC"
+              },
+              {
+                "label": "Username",
+                "value": "insc.riocuarto"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18093647792160505:1786661238::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786797473,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db9mV5-lZ5Jnz0Adrics7RSrzzx35C90TLjq4w0/",
+        "href": "https://www.instagram.com/p/Db9mV5-lZ5Jnz0Adrics7RSrzzx35C90TLjq4w0/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "_pela_3323"
+              },
+              {
+                "label": "Username",
+                "value": "simon_3323_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18089756501152001:1786797473::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786797486,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db9xWS_lVDx/",
+        "href": "https://www.instagram.com/p/Db9xWS_lVDx/"
+      },
+      {
+        "label": "Caption",
+        "value": "Viaje educativo | 5\u00c2\u00b0 a\u00c3\u00b1o recorri\u00c3\u00b3 C\u00c3\u00b3rdoba y Villa General Belgrano\n\nLos estudiantes de 5\u00c2\u00b0 a\u00c3\u00b1o del Nivel Secundario participaron de una enriquecedora jornada educativa en las ciudades de C\u00c3\u00b3rdoba y Villa General Belgrano, en el marco de una propuesta interdisciplinaria de los espacios curriculares de Historia, Formaci\u00c3\u00b3n para la Vida y el Trabajo, Catequesis y Educaci\u00c3\u00b3n F\u00c3\u00adsica.\n\nEn la ciudad de C\u00c3\u00b3rdoba visitaron la Legislatura de la Provincia, donde pudieron acercarse al funcionamiento de una de las principales instituciones de nuestra democracia. Tambi\u00c3\u00a9n recorrieron la Casa Madre de las Hermanas Terciarias Misioneras Franciscanas, un lugar profundamente significativo para nuestra identidad, nuestra historia y el legado de Madre Mar\u00c3\u00ada del Tr\u00c3\u00a1nsito.\n\nLuego, el viaje continu\u00c3\u00b3 hacia Villa General Belgrano, donde conocieron una f\u00c3\u00a1brica de chocolate y pudieron interiorizarse sobre su proceso de elaboraci\u00c3\u00b3n. La jornada se complet\u00c3\u00b3 con una actividad de trekking, disfrutando del paisaje y promoviendo el encuentro con la naturaleza, la actividad f\u00c3\u00adsica y la convivencia entre compa\u00c3\u00b1eros.\n\nEstas experiencias permiten que los aprendizajes trasciendan las paredes del aula, articulando conocimientos, vivencias y v\u00c3\u00adnculos desde una mirada interdisciplinaria.\n\nAgradecemos a los docentes que acompa\u00c3\u00b1aron y trabajaron para hacer posible esta propuesta y a nuestros estudiantes por vivirla con entusiasmo y responsabilidad.\n\n\u00c2\u00a1Seguimos caminando juntos, aprendiendo tambi\u00c3\u00a9n en el camino!\n\n#ViajeEducativo #QuintoA\u00c3\u00b1o #AprendizajeSituado #CaminandoJuntos #INSC"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "aprendizajesituado"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "viajeeducativo"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "caminandojuntos"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "quintoa\u00c3\u00b1o"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "insc"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://linktr.ee/insc.riocuarto"
+              },
+              {
+                "label": "Name",
+                "value": "Colegio del Carmen INSC"
+              },
+              {
+                "label": "Username",
+                "value": "insc.riocuarto"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18093647792160505:1786797486::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840522,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbPvqQfMekU/",
+        "href": "https://www.instagram.com/p/DbPvqQfMekU/"
+      },
+      {
+        "label": "Caption",
+        "value": "Jaapani uue p\u00c3\u00b5lvkonna futuristic trap ja melodic drill skeenel on RYONEX t\u00c3\u00b5usnud \u00c3\u00bcheks k\u00c3\u00b5ige t\u00c3\u00a4helepanuv\u00c3\u00a4\u00c3\u00a4rsemaks nimeks. Tema kiire flow, tumedad elektroonilised produktsioonid ja tugevalt cyberpunk\u00e2\u0080\u0099ist m\u00c3\u00b5jutatud visuaalne stiil on aidanud tal l\u00c3\u00bchikese ajaga koguda m\u00c3\u00a4rkimisv\u00c3\u00a4\u00c3\u00a4rse kuulajaskonna. Eriti populaarne on ta noorte seas, kes j\u00c3\u00a4lgivad animekultuuri, videom\u00c3\u00a4nge ja internetip\u00c3\u00b6hiseid kogukondi. Lood nagu \u00e2\u0080\u009eTokyo Fade\u00e2\u0080\u009d ja \u00e2\u0080\u009eChrome Heart\u00e2\u0080\u009d on toonud talle miljoneid kuulamisi ning koost\u00c3\u00b6\u00c3\u00b6 erinevate Aasia produtsentidega on laiendanud tema m\u00c3\u00b5ju veelgi. Tema kontsertidel kasutatakse sageli glitch-efekte, futuristlikke visuaale ja joulisi biite, mis on mutunud oluliseks osaks artisti \u00c3\u00a4ratuntavast identiteedist. 2026. aastat peetakse RYONEXi karj\u00c3\u00a4\u00c3\u00a4ris oluliseks p\u00c3\u00b6\u00c3\u00b6rdepunktiks. Praegu koguvad suurt t\u00c3\u00a4helepanu nii tema j\u00c3\u00a4rgmise albumi filmilikud teaserid kui ka ettevalmistused suuremateks festivaliesinemisteks Tokyos ja Soulis. Paljud f\u00c3\u00a4nnid usuvad, et just see periood v\u00e1\u00bb\u0091ib viia ta Aasia kaasaegse trap-muusika k\u00c3\u00b5ige m\u00c3\u00b5jukamate artistide hulka."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "67posting"
+              },
+              {
+                "label": "Username",
+                "value": "67posting"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18227400583317624:1786840522::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840522,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Dbo5Nc7xKV2/",
+        "href": "https://www.instagram.com/p/Dbo5Nc7xKV2/"
+      },
+      {
+        "label": "Caption",
+        "value": "Gran diferencia\u00e2\u0080\u00a6"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://linktr.ee/jonatanloidi"
+              },
+              {
+                "label": "Name",
+                "value": "Jonatan Loidi"
+              },
+              {
+                "label": "Username",
+                "value": "jonatanloidi"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18087944063156516:1786840522::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840522,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db6QrCbFhuL/",
+        "href": "https://www.instagram.com/p/Db6QrCbFhuL/"
+      },
+      {
+        "label": "Caption",
+        "value": "Confirmen \u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bb\u00f0\u009f\u00a5\u00b3\n.\n.\n.\n#gym #fitness #follow #parati #viral"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "follow"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "viral"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "parati"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gym"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "fitness"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://www.youtube.com/@OyeRonaldoMuscle"
+              },
+              {
+                "label": "Name",
+                "value": "\u00f0\u009f\u0094\u00b1\u00f0\u009f\u0087\u00b5\u00f0\u009f\u0087\u00aaR O N A L D O  C E V I C H E\u00f0\u009f\u0094\u00b1\u00f0\u009f\u0087\u00b5\u00f0\u009f\u0087\u00aa"
+              },
+              {
+                "label": "Username",
+                "value": "oyeronaldo"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18138492817578507:1786840522::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840535,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcCW0Qaibn-/",
+        "href": "https://www.instagram.com/p/DcCW0Qaibn-/"
+      },
+      {
+        "label": "Caption",
+        "value": "#Gym #mentalhealth #mentalhealthmatters #real #jesus"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "real"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "mentalhealth"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gym"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "mentalhealthmatters"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jesus"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://www.tiktok.com/@fran.serrano_?_t=ZM-8tNMaLkgWVK&_r=1"
+              },
+              {
+                "label": "Name",
+                "value": "Fran Serrano"
+              },
+              {
+                "label": "Username",
+                "value": "fran.serranoo_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:17912400990442892:1786840535::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840543,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1UsfDFjB9/",
+        "href": "https://www.instagram.com/p/Db1UsfDFjB9/"
+      },
+      {
+        "label": "Caption",
+        "value": "Rompiendo los lazos del hogar (1954)\n\n\u00f0\u009f\u0091\u00a8\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u008e\u00a8 Norman Rockwell\n\n\u00f0\u009f\u0093\u008d Portada de The Saturday Evening Post\n\nA primera vista, parece una escena sencilla y tranquila. Un padre y su hijo esperan el tren sentados en el estribo de una vieja camioneta rural, mientras el perro de la familia descansa junto a ellos.\n\nPero observa mejor.\n\nLos dos hombres parecen estar viviendo momentos completamente diferentes.\n\nEl joven lleva un elegante traje nuevo.\n\nMira las v\u00c3\u00adas con entusiasmo.\n\nSu mirada est\u00c3\u00a1 puesta en el futuro.\n\nEn una nueva vida que est\u00c3\u00a1 a punto de comenzar.\n\nEl padre, en cambio, no mira el tren.\n\nSostiene dos sombreros entre las manos y baja la mirada.\n\nSu ropa desgastada cuenta a\u00c3\u00b1os de duro trabajo en el campo.\n\nEn su rostro no hay un orgullo evidente.\n\nHay algo m\u00c3\u00a1s silencioso.\n\nLa tristeza de una despedida.\n\nEs en los detalles donde Rockwell revela la verdadera historia.\n\nSobre la maleta del joven aparece un bander\u00c3\u00adn universitario.\n\nEse muchacho se est\u00c3\u00a1 marchando a la universidad.\n\nY el hombre sentado a su lado es un granjero que sacrific\u00c3\u00b3 gran parte de su vida para ofrecerle oportunidades que \u00c3\u00a9l nunca tuvo.\n\nSu sue\u00c3\u00b1o se ha hecho realidad.\n\nPero el precio es ver a su hijo alejarse hacia un mundo al que \u00c3\u00a9l nunca perteneci\u00c3\u00b3.\n\nEsta no es simplemente una escena familiar.\n\nEs una reflexi\u00c3\u00b3n sobre el amor de un padre.\n\nPorque el mayor \u00c3\u00a9xito al criar a un hijo es prepararlo para caminar por s\u00c3\u00ad mismo.\n\nIncluso cuando eso significa dejarlo ir.\n\n\u00f0\u009f\u0091\u0089 Sigue @entiende.arte para m\u00c3\u00a1s obras de arte explicadas."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "Entendiendo Las Artes"
+              },
+              {
+                "label": "Username",
+                "value": "entiende.arte"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18120866203880858:1786840543::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840550,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db9x2thjUSyPgNKow2V4v3X4N_MbyKAzwMZbbw0/",
+        "href": "https://www.instagram.com/p/Db9x2thjUSyPgNKow2V4v3X4N_MbyKAzwMZbbw0/"
+      },
+      {
+        "label": "Caption",
+        "value": "\u00f0\u009f\u008d\u00b8"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "Dani"
+              },
+              {
+                "label": "Username",
+                "value": "daniiiespinoza_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18090916514121301:1786840550::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840556,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1Cdr3jEZu/",
+        "href": "https://www.instagram.com/p/Db1Cdr3jEZu/"
+      },
+      {
+        "label": "Caption",
+        "value": "Siempre habr\u00c3\u00a1 alguien dispuesto a decirte c\u00c3\u00b3mo deber\u00c3\u00adas vivir.\n\nLa diferencia es que unos escuchan esas voces\u00e2\u0080\u00a6 y otros construyen la vida que realmente quieren.\n\nEntrena. Cu\u00c3\u00addate. Disfruta del proceso.\n\nY deja que hablen. \u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bc"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://wa.link/rx7qk2"
+              },
+              {
+                "label": "Name",
+                "value": "Guille Herce | ENTRENADOR ONLINE \u00f0\u009f\u0092\u00bb"
+              },
+              {
+                "label": "Username",
+                "value": "fitwilly"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:17987796297042456:1786840556::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879072,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcEHbVCEXBV/",
+        "href": "https://www.instagram.com/p/DcEHbVCEXBV/"
+      },
+      {
+        "label": "Caption",
+        "value": "W4 D2 \u00f0\u009f\u008c\u00b6\u00ef\u00b8\u008f\n\nBanco Plano\n175kg x5\n180kg x2\n190kg x2\n170kg x4\n\nRemo con barra\n100kg 4x10\n\nJal\u00c3\u00b3n al pecho \n85kg 4x12\n\nPullover\n70kg 3x12\n\nB\u00c3\u00adceps \n35kg 4x10-12\n\nCODE TILO en\n@fullpowersports \n@suplementacion_laplata \n@eseesmipollolaplata \n@gorilamodee \n\n\u00f0\u009f\u008d\u0094 @lic.gianinafocarazzo \n\u00f0\u009f\u00a7\u0091\u00e2\u0080\u008d\u00f0\u009f\u008f\u00ab @faccugram_roadto180kgbench \n\u00f0\u009f\u008f\u00a1 @el_bosque_gym \n\n#powerlifting #fitness #gym #benchpress"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "label": "Caption",
+        "value": "W4 D2 \u00f0\u009f\u008c\u00b6\u00ef\u00b8\u008f\n\nBanco Plano\n175kg x5\n180kg x2\n190kg x2\n170kg x4\n\nRemo con barra\n100kg 4x10\n\nJal\u00c3\u00b3n al pecho \n85kg 4x12\n\nPullover\n70kg 3x12\n\nB\u00c3\u00adceps \n35kg 4x10-12\n\nCODE TILO en\n@fullpowersports \n@suplementacion_laplata \n@eseesmipollolaplata \n@gorilamodee \n\n\u00f0\u009f\u008d\u0094 @lic.gianinafocarazzo \n\u00f0\u009f\u00a7\u0091\u00e2\u0080\u008d\u00f0\u009f\u008f\u00ab @faccugram_roadto180kgbench \n\u00f0\u009f\u008f\u00a1 @el_bosque_gym \n\n#powerlifting #fitness #gym #benchpress"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "powerlifting"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "benchpress"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gym"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "fitness"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://www.bigtilo.com"
+              },
+              {
+                "label": "Name",
+                "value": "Franco Leo Menazzi \u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00b7"
+              },
+              {
+                "label": "Username",
+                "value": "bigtilo"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18452046913188030:1786879072::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879361,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcCNiaDj4vo/",
+        "href": "https://www.instagram.com/p/DcCNiaDj4vo/"
+      },
+      {
+        "label": "Caption",
+        "value": "SUBCAMPE\u00c3\u0093N NACIONAL \u00f0\u009f\u00a5\u0088\nNo, no es para nada lo que queriamos. Pero que queriamos? \u00f0\u009f\u00a4\u0094\nHace un a\u00c3\u00b1o no sabia si iba a volver a competir o me tenia que retirar.\nEl medico con el que hicimos el tratamiento, me dijo que en agosto me daba de alta y en agosto ya estabamos peleando la clasificaci\u00c3\u00b3n a los juegos ODESUR \u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f, entonces, no puedo quejarme. \nSi, me muero de bronca. Porque el dia que quiera hacer algo para divertirme, me busco un deporte mas divertido, seamos sinceros \u00f0\u009f\u0098\u0085...\nEste es nuestro nuevo punto de partida. Estoy muy bien, y seguimos trabajando muy fuerte, porque no conozco otra forma de hacer las cosas.\nEs mi momento de aplaudir y agradecer a mi equipo, con el coraz\u00c3\u00b3n. Y tambien a todos los que siguen apoyando desde afuera. \nPorque es un deporte individual, pero solo adentro del circulo. Gracias \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00a5\n.\n@walterarmoya\n@andresbiasinutriciondeportiva \n@daro_palazzo \n@ari_celdran\n@claudio.henschke \n@max.suplementosarg \n@centrodetraumatologiayartros"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://join.kast.xyz/click?offer_id=6&pub_id=255"
+              },
+              {
+                "label": "Name",
+                "value": "Juan Ignacio Carballo"
+              },
+              {
+                "label": "Username",
+                "value": "nachocarballo8"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18163919983461179:1786879361::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879370,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbrdgdYkcLx/",
+        "href": "https://www.instagram.com/p/DbrdgdYkcLx/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": ""
+              },
+              {
+                "label": "Username",
+                "value": "lionelmarquez36"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18064487072758156:1786879370::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879383,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db3jVxgkzdf/",
+        "href": "https://www.instagram.com/p/Db3jVxgkzdf/"
+      },
+      {
+        "label": "Caption",
+        "value": "\u00f0\u009f\u00a4\u0096 Google AI Overviews ahora tambi\u00c3\u00a9n responde preguntas absurdas\n\nGoogle AI Overviews, el sistema de res\u00c3\u00bamenes generados por inteligencia artificial que aparece en los resultados de b\u00c3\u00basqueda, se ha convertido en una fuente inesperada de contenido viral. Usuarios est\u00c3\u00a1n probando preguntas deliberadamente extra\u00c3\u00b1as, como si una gallina puede caminar frente a KFC, si un vaso de agua puede hacer algo o qu\u00c3\u00a9 deber\u00c3\u00ada hacer una serpiente antes de atacar.\n\nLo curioso es que la IA no siempre ignora estas situaciones. En muchos casos, interpreta la pregunta literalmente y construye respuestas completas con t\u00c3\u00adtulos, listas, recomendaciones y explicaciones, incluso cuando la consulta parte de una situaci\u00c3\u00b3n completamente ficticia. Esto muestra c\u00c3\u00b3mo los sistemas de IA pueden generar respuestas coherentes aunque la pregunta original no tenga una fuente real detr\u00c3\u00a1s.\n\nEl alcance de esta tecnolog\u00c3\u00ada tambi\u00c3\u00a9n explica por qu\u00c3\u00a9 estos ejemplos generan tanta atenci\u00c3\u00b3n. Google inform\u00c3\u00b3 que AI Overviews ya supera los 2.000 millones de usuarios mensuales en m\u00c3\u00a1s de 200 pa\u00c3\u00adses y territorios. La compa\u00c3\u00b1\u00c3\u00ada tambi\u00c3\u00a9n ha trabajado en mejorar su capacidad para detectar consultas sin sentido y limitar respuestas basadas en contenido sat\u00c3\u00adrico.\n\n\u00c2\u00bfCrees que estas respuestas demuestran lo avanzada que est\u00c3\u00a1 la IA o que todav\u00c3\u00ada necesita entender mejor el contexto? \u00f0\u009f\u00a4\u0094\n\n\u00f0\u009f\u0091\u0089Nunca volver\u00c3\u00a1s a ver esta p\u00c3\u00a1gina a menos que nos sigas ahora mismo: @ingenia.ai"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "http://www.getstanley.ai/welcome"
+              },
+              {
+                "label": "Name",
+                "value": "Ingenia AI"
+              },
+              {
+                "label": "Username",
+                "value": "ingenia.ai"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18111821116804378:1786879383::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879412,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db8ixOliPiJ/",
+        "href": "https://www.instagram.com/p/Db8ixOliPiJ/"
+      },
+      {
+        "label": "Caption",
+        "value": "Empezar es decir \u00e2\u0080\u009cs\u00c3\u00ad\u00e2\u0080\u009d. Crecer es aprender a decir \u00e2\u0080\u009cno\u00e2\u0080\u009d. \u00f0\u009f\u0091\u0087\u00f0\u009f\u009a\u00ab\n\nLa mediocridad ama el exceso.\nTe hace creer que estar ocupado es ser productivo\u00e2\u0080\u00a6\ny que tener muchas opciones es libertad.\n\nPero la verdad es brutal:\nquien intenta cazar dos conejos al mismo tiempo, muere de hambre.\n\nEl Lobo entiende que el enfoque es el superpoder de la \u00c3\u00a9lite:\n\n\u00e2\u0080\u00a2 En relaciones: 20 opciones es caos; 1 mujer alineada es construcci\u00c3\u00b3n y legado.\n\u00e2\u0080\u00a2 En consejos: 20 opiniones de mediocres generan duda; 1 mentor probado te da direcci\u00c3\u00b3n.\n\u00e2\u0080\u00a2 En negocios: 10 proyectos dispersos garantizan fracaso; 1 modelo ejecutado con disciplina construye riqueza.\n\u00e2\u0080\u00a2 En aprendizaje: consumir sin aplicar es ruido; estudiar y ejecutar es poder.\n\nNecesitas la valent\u00c3\u00ada de decepcionar expectativas externas para no traicionar tu propio futuro.\n\nElimina el ruido.\nCorta el exceso.\nDescubre la \u00c3\u00banica cosa que realmente mueve tu vida\u00e2\u0080\u00a6\ny di un NO absoluto a todo lo dem\u00c3\u00a1s.\n\n\u00f0\u009f\u0090\u00ba Si est\u00c3\u00a1s listo para enfocarte como un verdadero lobo, sigue @elmodolobo_\nAccede al enlace de la biograf\u00c3\u00ada y empieza hoy el Desaf\u00c3\u00ado de 40 d\u00c3\u00adas."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "label": "Caption",
+        "value": "Empezar es decir \u00e2\u0080\u009cs\u00c3\u00ad\u00e2\u0080\u009d. Crecer es aprender a decir \u00e2\u0080\u009cno\u00e2\u0080\u009d. \u00f0\u009f\u0091\u0087\u00f0\u009f\u009a\u00ab\n\nLa mediocridad ama el exceso.\nTe hace creer que estar ocupado es ser productivo\u00e2\u0080\u00a6\ny que tener muchas opciones es libertad.\n\nPero la verdad es brutal:\nquien intenta cazar dos conejos al mismo tiempo, muere de hambre.\n\nEl Lobo entiende que el enfoque es el superpoder de la \u00c3\u00a9lite:\n\n\u00e2\u0080\u00a2 En relaciones: 20 opciones es caos; 1 mujer alineada es construcci\u00c3\u00b3n y legado.\n\u00e2\u0080\u00a2 En consejos: 20 opiniones de mediocres generan duda; 1 mentor probado te da direcci\u00c3\u00b3n.\n\u00e2\u0080\u00a2 En negocios: 10 proyectos dispersos garantizan fracaso; 1 modelo ejecutado con disciplina construye riqueza.\n\u00e2\u0080\u00a2 En aprendizaje: consumir sin aplicar es ruido; estudiar y ejecutar es poder.\n\nNecesitas la valent\u00c3\u00ada de decepcionar expectativas externas para no traicionar tu propio futuro.\n\nElimina el ruido.\nCorta el exceso.\nDescubre la \u00c3\u00banica cosa que realmente mueve tu vida\u00e2\u0080\u00a6\ny di un NO absoluto a todo lo dem\u00c3\u00a1s.\n\n\u00f0\u009f\u0090\u00ba Si est\u00c3\u00a1s listo para enfocarte como un verdadero lobo, sigue @elmodolobo_\nAccede al enlace de la biograf\u00c3\u00ada y empieza hoy el Desaf\u00c3\u00ado de 40 d\u00c3\u00adas."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://elrenacer40dias.shop/?utm_source=bio"
+              },
+              {
+                "label": "Name",
+                "value": "Modo Lobo"
+              },
+              {
+                "label": "Username",
+                "value": "elmodolobo_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18278139970292380:1786879412::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879412,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcFRhBHkV7AJC1gYaq605RHy24Q7bWWDJMNdfI0/",
+        "href": "https://www.instagram.com/p/DcFRhBHkV7AJC1gYaq605RHy24Q7bWWDJMNdfI0/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "bau\u00e2\u009a\u00bd"
+              },
+              {
+                "label": "Username",
+                "value": "lelli_bautista"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:17924715207403215:1786879412::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879431,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcFAr2hpZrR/",
+        "href": "https://www.instagram.com/p/DcFAr2hpZrR/"
+      },
+      {
+        "label": "Caption",
+        "value": "Que pod\u00c3\u00ada esperar..."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "\u00f0\u009f\u00a7\u00a0Cerebro Curioso\u00f0\u009f\u00a7\u00a0"
+              },
+              {
+                "label": "Username",
+                "value": "intelectual_2.0"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18057902627538694:1786879431::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879508,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcFHCT1DZeY/",
+        "href": "https://www.instagram.com/p/DcFHCT1DZeY/"
+      },
+      {
+        "label": "Caption",
+        "value": "\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00ae En Finlandia existe un hotel que desaparece todos los a\u00c3\u00b1os.\n\nConocido como el Hotel de Hielo, se construye completamente con nieve y bloques de hielo durante el invierno.\n\nLo m\u00c3\u00a1s impresionante es que las habitaciones, las camas, las esculturas e incluso parte de la decoraci\u00c3\u00b3n est\u00c3\u00a1n hechas de hielo.\n\nCuando llega la primavera, la estructura comienza a derretirse de forma natural hasta desaparecer por completo.\n\nAl invierno siguiente, se construye un nuevo hotel desde cero, con un dise\u00c3\u00b1o diferente al del a\u00c3\u00b1o anterior.\n\nEs uno de los pocos lugares del mundo donde puedes dormir dentro de una aut\u00c3\u00a9ntica obra de arte ef\u00c3\u00admera.\n\n#Finlandia #Curiosidades #Hielo #Mundo #Viajes"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "mundo"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "finlandia"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "viajes"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "curiosidades"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "hielo"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "Oficial El Oceano"
+              },
+              {
+                "label": "Username",
+                "value": "oficialeloceano"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18628062949035619:1786879508::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879535,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcBpquoCDbY/",
+        "href": "https://www.instagram.com/p/DcBpquoCDbY/"
+      },
+      {
+        "label": "Caption",
+        "value": "Intentando ponerme fuerte (no hay manera)"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://srfufi.bio"
+              },
+              {
+                "label": "Name",
+                "value": "Fufi | Rub\u00c3\u00a9n Orbea"
+              },
+              {
+                "label": "Username",
+                "value": "srfufi"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18149506948520002:1786879535::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879544,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcEmpv5xbJq/",
+        "href": "https://www.instagram.com/p/DcEmpv5xbJq/"
+      },
+      {
+        "label": "Caption",
+        "value": "El 8 de julio, despu\u00c3\u00a9s de la cumbre de la OTAN en Ankara, Trump volvi\u00c3\u00b3 a Estados Unidos en un avi\u00c3\u00b3n que nadie vio venir. Todo el mundo, prensa incluida, crey\u00c3\u00b3 que viajaba en el viejo Air Force One que despeg\u00c3\u00b3 de Turqu\u00c3\u00ada con funcionarios de la Casa Blanca y periodistas a bordo. Seg\u00c3\u00ban revel\u00c3\u00b3 el Washington Post, esa aeronave fue b\u00c3\u00a1sicamente un se\u00c3\u00b1uelo.\n\nEl operativo real fue otro. Trump subi\u00c3\u00b3 al Air Force One por la puerta delantera, a la vista de las c\u00c3\u00a1maras, pero minutos despu\u00c3\u00a9s lo trasladaron en secreto usando un carrito de catering con sistema hidr\u00c3\u00a1ulico hasta la puerta trasera de un jet militar m\u00c3\u00a1s chico, un C-32A, estacionado del otro lado. De ah\u00c3\u00ad vol\u00c3\u00b3 hasta la base de Mildenhall, en Reino Unido. La raz\u00c3\u00b3n: una amenaza de asesinato de Ir\u00c3\u00a1n que el Servicio Secreto consider\u00c3\u00b3 cre\u00c3\u00adble.\n\nTrump confirm\u00c3\u00b3 la maniobra d\u00c3\u00adas despu\u00c3\u00a9s, cuando la historia ya era viral y las redes se hab\u00c3\u00adan llenado de memes con el carrito. Y las comparaciones no tardaron: el presidente de la potencia que invadi\u00c3\u00b3 Irak en 2003 escondi\u00c3\u00a9ndose de una amenaza igual que Saddam Hussein, encontrado en 2003 agazapado en un hoyo subterr\u00c3\u00a1neo cerca de Tikrit, es una iron\u00c3\u00ada que las redes no dejaron pasar.\n\n#trump #patternrecognition #hidingspot #donald"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "donald"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "trump"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "hidingspot"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "patternrecognition"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "\u00f0\u009f\u0092\u00adpsyoposting"
+              },
+              {
+                "label": "Username",
+                "value": "psyoposting"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18081296684306256:1786879544::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786316995,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1aQv1lnBd/",
+        "href": "https://www.instagram.com/p/Db1aQv1lnBd/"
+      },
+      {
+        "label": "Caption",
+        "value": "Reu Level Up \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc\u00e2\u009c\u00a8\u00ef\u00b8\u008f\n\n#jesusteama #jovenes #cdl #cristianos"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jovenes"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "cristianos"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jesusteama"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "cdl"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "J\u00c3\u00b3venes Level Up CDL"
+              },
+              {
+                "label": "Username",
+                "value": "cdl_levelup"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18013624169736137:1786316995::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786398729,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1aQv1lnBd/",
+        "href": "https://www.instagram.com/p/Db1aQv1lnBd/"
+      },
+      {
+        "label": "Caption",
+        "value": "Reu Level Up \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc\u00e2\u009c\u00a8\u00ef\u00b8\u008f\n\n#jesusteama #jovenes #cdl #cristianos"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jovenes"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "cristianos"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jesusteama"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "cdl"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "J\u00c3\u00b3venes Level Up CDL"
+              },
+              {
+                "label": "Username",
+                "value": "cdl_levelup"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18013624169736137:1786398729::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786484274,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1TaIMGhKk7zTYnHSdL74K_zUPnCA9gfTh2Zs0/",
+        "href": "https://www.instagram.com/p/Db1TaIMGhKk7zTYnHSdL74K_zUPnCA9gfTh2Zs0/"
+      },
+      {
+        "label": "Caption",
+        "value": "insistir, persistir y nunca desistir \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00e2\u009a\u00bd\u00ef\u00b8\u008f\n@clubjuventudunidarc \n@juventudunida.rc"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "santi"
+              },
+              {
+                "label": "Username",
+                "value": "santi.carranza_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18079516361426533:1786484274::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786486824,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1kQ1NiY6Qa6jZ3Z_yag54BEKmtyqqOPc3tjc0/",
+        "href": "https://www.instagram.com/p/Db1kQ1NiY6Qa6jZ3Z_yag54BEKmtyqqOPc3tjc0/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "\u00f0\u009d\u0094\u00b9\u00f0\u009d\u0095\u00a3\u00f0\u009d\u0095\u00a6\u00f0\u009d\u0095\u00a2\u00f0\u009d\u0095\u00a6\u00f0\u009d\u0095\u0096"
+              },
+              {
+                "label": "Username",
+                "value": "fer.bruque"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:17974529490089124:1786486824::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786572185,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbwyJzasWi4/",
+        "href": "https://www.instagram.com/p/DbwyJzasWi4/"
+      },
+      {
+        "label": "Caption",
+        "value": "Reflexi\u00c3\u00b3n de viernes.. donde est\u00c3\u00a1 m\u00c3\u00a1s vigente que nunca..\n.\nLA F\u00c3\u0081BULA DEL PELOTUDO\n\nSe cuenta que en una ciudad del interior, un grupo de personas se divert\u00c3\u00adan con el pelotudo del pueblo. Un pobre infeliz de poca inteligencia, que viv\u00c3\u00ada haciendo peque\u00c3\u00b1os mandados y recibiendo limosnas.\n\nDiariamente, algunos hombres llamaban al pelotudo al bar donde se reun\u00c3\u00adan y le ofrec\u00c3\u00adan escoger entre dos monedas: una de tama\u00c3\u00b1o grande de 50 centavos y otra de menor tama\u00c3\u00b1o, pero de 1 peso.\n\n\u00c3\u0089l siempre agarraba la m\u00c3\u00a1s grande y menos valiosa, lo que era motivo de risas para todos.\n\nUn d\u00c3\u00ada, alguien que observaba al grupo divertirse con el inocente hombre, lo llam\u00c3\u00b3 aparte y le pregunt\u00c3\u00b3 si todav\u00c3\u00ada no hab\u00c3\u00ada percibido que la moneda de mayor tama\u00c3\u00b1o val\u00c3\u00ada menos y \u00c3\u00a9ste le respondi\u00c3\u00b3:\n\n\u00e2\u0080\u0094Lo s\u00c3\u00a9, no soy tan pelotudo\u00e2\u0080\u00a6, vale la mitad, pero el d\u00c3\u00ada que escoja la otra, el jueguito se acaba y no voy a ganar m\u00c3\u00a1s mi moneda.\n\nEsta historia podr\u00c3\u00ada concluir aqu\u00c3\u00ad, como un simple chiste, pero se pueden sacar varias conclusiones:\n\nLa primera: Quien parece pelotudo, no siempre lo es.\n\nLa segunda: \u00c2\u00bfCu\u00c3\u00a1les eran los verdaderos pelotudos de la historia?\n\nLa tercera: Una ambici\u00c3\u00b3n desmedida puede acabar cortando tu fuente de ingresos.\n\nLa cuarta: (pero la conclusi\u00c3\u00b3n m\u00c3\u00a1s interesante) Podemos estar bien, aun cuando los otros no tengan una buena opini\u00c3\u00b3n sobre nosotros. Por lo tanto, lo que importa no es lo que piensan los dem\u00c3\u00a1s de nosotros, sino lo que uno piensa de s\u00c3\u00ad mismo."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://linktr.ee/jonatanloidi"
+              },
+              {
+                "label": "Name",
+                "value": "Jonatan Loidi"
+              },
+              {
+                "label": "Username",
+                "value": "jonatanloidi"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18552995488074981:1786572185::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786572185,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db5M0uskVRj/",
+        "href": "https://www.instagram.com/p/Db5M0uskVRj/"
+      },
+      {
+        "label": "Caption",
+        "value": "Our top Chest Machines, ranked. Drop your number 1 below \n\n1. Strive Chest Press\n2. Nautilus Nitro Vertical Chest Press\n3. Nautilus 1st Gen 10degree Chest Fly\n4. Nautilus Nitro Plus Rear Delt/Pec Fly \n5. Nautilus Nitro Pec Fly\n6. Nautilus 1st Gen 70degree Chest Fly\n7. Strive Chest Press\n8. Nautilus Xpload Incline Chest Press\n9. Strive Rear Delt/Pec Fly\n10. Atlantis Assisted Bench"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://apps.apple.com/au/app/xl-fitness/id6761979329"
+              },
+              {
+                "label": "Name",
+                "value": "XL Fitness | Tech Gym Mulgrave"
+              },
+              {
+                "label": "Username",
+                "value": "xlfitnessau"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18486851992096065:1786572185::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786657582,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbokcPWiVtn/",
+        "href": "https://www.instagram.com/p/DbokcPWiVtn/"
+      },
+      {
+        "label": "Caption",
+        "value": "\u00f0\u009f\u0094\u00aa\u00f0\u009f\u0094\u00aatengo sue\u00c3\u00b1o..."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "\u00f0\u009f\u008e\u0080\u00db\u009e\u00f0\u009d\u0094\u00aa\u00f0\u009d\u0094\u009e\u00f0\u009d\u0094\u00af\u00f0\u009d\u0094\u00a0\u00f0\u009d\u0094\u00a2\u00f0\u009d\u0094\u00a9\u00f0\u009d\u0094\u009e\u00db\u009e\u00f0\u009f\u008e\u0080"
+              },
+              {
+                "label": "Username",
+                "value": "wildd._.flowerr._"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:17901818616521959:1786657582::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786657582,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db9mV5-lZ5Jnz0Adrics7RSrzzx35C90TLjq4w0/",
+        "href": "https://www.instagram.com/p/Db9mV5-lZ5Jnz0Adrics7RSrzzx35C90TLjq4w0/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "_pela_3323"
+              },
+              {
+                "label": "Username",
+                "value": "simon_3323_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18089756501152001:1786657582::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786797481,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db9mV5-lZ5Jnz0Adrics7RSrzzx35C90TLjq4w0/",
+        "href": "https://www.instagram.com/p/Db9mV5-lZ5Jnz0Adrics7RSrzzx35C90TLjq4w0/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "_pela_3323"
+              },
+              {
+                "label": "Username",
+                "value": "simon_3323_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18089756501152001:1786797481::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840548,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbPvqQfMekU/",
+        "href": "https://www.instagram.com/p/DbPvqQfMekU/"
+      },
+      {
+        "label": "Caption",
+        "value": "Jaapani uue p\u00c3\u00b5lvkonna futuristic trap ja melodic drill skeenel on RYONEX t\u00c3\u00b5usnud \u00c3\u00bcheks k\u00c3\u00b5ige t\u00c3\u00a4helepanuv\u00c3\u00a4\u00c3\u00a4rsemaks nimeks. Tema kiire flow, tumedad elektroonilised produktsioonid ja tugevalt cyberpunk\u00e2\u0080\u0099ist m\u00c3\u00b5jutatud visuaalne stiil on aidanud tal l\u00c3\u00bchikese ajaga koguda m\u00c3\u00a4rkimisv\u00c3\u00a4\u00c3\u00a4rse kuulajaskonna. Eriti populaarne on ta noorte seas, kes j\u00c3\u00a4lgivad animekultuuri, videom\u00c3\u00a4nge ja internetip\u00c3\u00b6hiseid kogukondi. Lood nagu \u00e2\u0080\u009eTokyo Fade\u00e2\u0080\u009d ja \u00e2\u0080\u009eChrome Heart\u00e2\u0080\u009d on toonud talle miljoneid kuulamisi ning koost\u00c3\u00b6\u00c3\u00b6 erinevate Aasia produtsentidega on laiendanud tema m\u00c3\u00b5ju veelgi. Tema kontsertidel kasutatakse sageli glitch-efekte, futuristlikke visuaale ja joulisi biite, mis on mutunud oluliseks osaks artisti \u00c3\u00a4ratuntavast identiteedist. 2026. aastat peetakse RYONEXi karj\u00c3\u00a4\u00c3\u00a4ris oluliseks p\u00c3\u00b6\u00c3\u00b6rdepunktiks. Praegu koguvad suurt t\u00c3\u00a4helepanu nii tema j\u00c3\u00a4rgmise albumi filmilikud teaserid kui ka ettevalmistused suuremateks festivaliesinemisteks Tokyos ja Soulis. Paljud f\u00c3\u00a4nnid usuvad, et just see periood v\u00e1\u00bb\u0091ib viia ta Aasia kaasaegse trap-muusika k\u00c3\u00b5ige m\u00c3\u00b5jukamate artistide hulka."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "67posting"
+              },
+              {
+                "label": "Username",
+                "value": "67posting"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18227400583317624:1786840548::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840548,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Dbo5Nc7xKV2/",
+        "href": "https://www.instagram.com/p/Dbo5Nc7xKV2/"
+      },
+      {
+        "label": "Caption",
+        "value": "Gran diferencia\u00e2\u0080\u00a6"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://linktr.ee/jonatanloidi"
+              },
+              {
+                "label": "Name",
+                "value": "Jonatan Loidi"
+              },
+              {
+                "label": "Username",
+                "value": "jonatanloidi"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18087944063156516:1786840548::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840548,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db1UsfDFjB9/",
+        "href": "https://www.instagram.com/p/Db1UsfDFjB9/"
+      },
+      {
+        "label": "Caption",
+        "value": "Rompiendo los lazos del hogar (1954)\n\n\u00f0\u009f\u0091\u00a8\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u008e\u00a8 Norman Rockwell\n\n\u00f0\u009f\u0093\u008d Portada de The Saturday Evening Post\n\nA primera vista, parece una escena sencilla y tranquila. Un padre y su hijo esperan el tren sentados en el estribo de una vieja camioneta rural, mientras el perro de la familia descansa junto a ellos.\n\nPero observa mejor.\n\nLos dos hombres parecen estar viviendo momentos completamente diferentes.\n\nEl joven lleva un elegante traje nuevo.\n\nMira las v\u00c3\u00adas con entusiasmo.\n\nSu mirada est\u00c3\u00a1 puesta en el futuro.\n\nEn una nueva vida que est\u00c3\u00a1 a punto de comenzar.\n\nEl padre, en cambio, no mira el tren.\n\nSostiene dos sombreros entre las manos y baja la mirada.\n\nSu ropa desgastada cuenta a\u00c3\u00b1os de duro trabajo en el campo.\n\nEn su rostro no hay un orgullo evidente.\n\nHay algo m\u00c3\u00a1s silencioso.\n\nLa tristeza de una despedida.\n\nEs en los detalles donde Rockwell revela la verdadera historia.\n\nSobre la maleta del joven aparece un bander\u00c3\u00adn universitario.\n\nEse muchacho se est\u00c3\u00a1 marchando a la universidad.\n\nY el hombre sentado a su lado es un granjero que sacrific\u00c3\u00b3 gran parte de su vida para ofrecerle oportunidades que \u00c3\u00a9l nunca tuvo.\n\nSu sue\u00c3\u00b1o se ha hecho realidad.\n\nPero el precio es ver a su hijo alejarse hacia un mundo al que \u00c3\u00a9l nunca perteneci\u00c3\u00b3.\n\nEsta no es simplemente una escena familiar.\n\nEs una reflexi\u00c3\u00b3n sobre el amor de un padre.\n\nPorque el mayor \u00c3\u00a9xito al criar a un hijo es prepararlo para caminar por s\u00c3\u00ad mismo.\n\nIncluso cuando eso significa dejarlo ir.\n\n\u00f0\u009f\u0091\u0089 Sigue @entiende.arte para m\u00c3\u00a1s obras de arte explicadas."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "Entendiendo Las Artes"
+              },
+              {
+                "label": "Username",
+                "value": "entiende.arte"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18120866203880858:1786840548::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840548,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db6QrCbFhuL/",
+        "href": "https://www.instagram.com/p/Db6QrCbFhuL/"
+      },
+      {
+        "label": "Caption",
+        "value": "Confirmen \u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00bb\u00f0\u009f\u00a5\u00b3\n.\n.\n.\n#gym #fitness #follow #parati #viral"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "follow"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "viral"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "parati"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gym"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "fitness"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://www.youtube.com/@OyeRonaldoMuscle"
+              },
+              {
+                "label": "Name",
+                "value": "\u00f0\u009f\u0094\u00b1\u00f0\u009f\u0087\u00b5\u00f0\u009f\u0087\u00aaR O N A L D O  C E V I C H E\u00f0\u009f\u0094\u00b1\u00f0\u009f\u0087\u00b5\u00f0\u009f\u0087\u00aa"
+              },
+              {
+                "label": "Username",
+                "value": "oyeronaldo"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18138492817578507:1786840548::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786840548,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcCW0Qaibn-/",
+        "href": "https://www.instagram.com/p/DcCW0Qaibn-/"
+      },
+      {
+        "label": "Caption",
+        "value": "#Gym #mentalhealth #mentalhealthmatters #real #jesus"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "real"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "mentalhealth"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gym"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "mentalhealthmatters"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "jesus"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://www.tiktok.com/@fran.serrano_?_t=ZM-8tNMaLkgWVK&_r=1"
+              },
+              {
+                "label": "Name",
+                "value": "Fran Serrano"
+              },
+              {
+                "label": "Username",
+                "value": "fran.serranoo_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:17912400990442892:1786840548::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879430,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DbrdgdYkcLx/",
+        "href": "https://www.instagram.com/p/DbrdgdYkcLx/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": ""
+              },
+              {
+                "label": "Username",
+                "value": "lionelmarquez36"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18064487072758156:1786879430::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879430,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db3jVxgkzdf/",
+        "href": "https://www.instagram.com/p/Db3jVxgkzdf/"
+      },
+      {
+        "label": "Caption",
+        "value": "\u00f0\u009f\u00a4\u0096 Google AI Overviews ahora tambi\u00c3\u00a9n responde preguntas absurdas\n\nGoogle AI Overviews, el sistema de res\u00c3\u00bamenes generados por inteligencia artificial que aparece en los resultados de b\u00c3\u00basqueda, se ha convertido en una fuente inesperada de contenido viral. Usuarios est\u00c3\u00a1n probando preguntas deliberadamente extra\u00c3\u00b1as, como si una gallina puede caminar frente a KFC, si un vaso de agua puede hacer algo o qu\u00c3\u00a9 deber\u00c3\u00ada hacer una serpiente antes de atacar.\n\nLo curioso es que la IA no siempre ignora estas situaciones. En muchos casos, interpreta la pregunta literalmente y construye respuestas completas con t\u00c3\u00adtulos, listas, recomendaciones y explicaciones, incluso cuando la consulta parte de una situaci\u00c3\u00b3n completamente ficticia. Esto muestra c\u00c3\u00b3mo los sistemas de IA pueden generar respuestas coherentes aunque la pregunta original no tenga una fuente real detr\u00c3\u00a1s.\n\nEl alcance de esta tecnolog\u00c3\u00ada tambi\u00c3\u00a9n explica por qu\u00c3\u00a9 estos ejemplos generan tanta atenci\u00c3\u00b3n. Google inform\u00c3\u00b3 que AI Overviews ya supera los 2.000 millones de usuarios mensuales en m\u00c3\u00a1s de 200 pa\u00c3\u00adses y territorios. La compa\u00c3\u00b1\u00c3\u00ada tambi\u00c3\u00a9n ha trabajado en mejorar su capacidad para detectar consultas sin sentido y limitar respuestas basadas en contenido sat\u00c3\u00adrico.\n\n\u00c2\u00bfCrees que estas respuestas demuestran lo avanzada que est\u00c3\u00a1 la IA o que todav\u00c3\u00ada necesita entender mejor el contexto? \u00f0\u009f\u00a4\u0094\n\n\u00f0\u009f\u0091\u0089Nunca volver\u00c3\u00a1s a ver esta p\u00c3\u00a1gina a menos que nos sigas ahora mismo: @ingenia.ai"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "http://www.getstanley.ai/welcome"
+              },
+              {
+                "label": "Name",
+                "value": "Ingenia AI"
+              },
+              {
+                "label": "Username",
+                "value": "ingenia.ai"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18111821116804378:1786879430::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879430,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/Db8ixOliPiJ/",
+        "href": "https://www.instagram.com/p/Db8ixOliPiJ/"
+      },
+      {
+        "label": "Caption",
+        "value": "Empezar es decir \u00e2\u0080\u009cs\u00c3\u00ad\u00e2\u0080\u009d. Crecer es aprender a decir \u00e2\u0080\u009cno\u00e2\u0080\u009d. \u00f0\u009f\u0091\u0087\u00f0\u009f\u009a\u00ab\n\nLa mediocridad ama el exceso.\nTe hace creer que estar ocupado es ser productivo\u00e2\u0080\u00a6\ny que tener muchas opciones es libertad.\n\nPero la verdad es brutal:\nquien intenta cazar dos conejos al mismo tiempo, muere de hambre.\n\nEl Lobo entiende que el enfoque es el superpoder de la \u00c3\u00a9lite:\n\n\u00e2\u0080\u00a2 En relaciones: 20 opciones es caos; 1 mujer alineada es construcci\u00c3\u00b3n y legado.\n\u00e2\u0080\u00a2 En consejos: 20 opiniones de mediocres generan duda; 1 mentor probado te da direcci\u00c3\u00b3n.\n\u00e2\u0080\u00a2 En negocios: 10 proyectos dispersos garantizan fracaso; 1 modelo ejecutado con disciplina construye riqueza.\n\u00e2\u0080\u00a2 En aprendizaje: consumir sin aplicar es ruido; estudiar y ejecutar es poder.\n\nNecesitas la valent\u00c3\u00ada de decepcionar expectativas externas para no traicionar tu propio futuro.\n\nElimina el ruido.\nCorta el exceso.\nDescubre la \u00c3\u00banica cosa que realmente mueve tu vida\u00e2\u0080\u00a6\ny di un NO absoluto a todo lo dem\u00c3\u00a1s.\n\n\u00f0\u009f\u0090\u00ba Si est\u00c3\u00a1s listo para enfocarte como un verdadero lobo, sigue @elmodolobo_\nAccede al enlace de la biograf\u00c3\u00ada y empieza hoy el Desaf\u00c3\u00ado de 40 d\u00c3\u00adas."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "label": "Caption",
+        "value": "Empezar es decir \u00e2\u0080\u009cs\u00c3\u00ad\u00e2\u0080\u009d. Crecer es aprender a decir \u00e2\u0080\u009cno\u00e2\u0080\u009d. \u00f0\u009f\u0091\u0087\u00f0\u009f\u009a\u00ab\n\nLa mediocridad ama el exceso.\nTe hace creer que estar ocupado es ser productivo\u00e2\u0080\u00a6\ny que tener muchas opciones es libertad.\n\nPero la verdad es brutal:\nquien intenta cazar dos conejos al mismo tiempo, muere de hambre.\n\nEl Lobo entiende que el enfoque es el superpoder de la \u00c3\u00a9lite:\n\n\u00e2\u0080\u00a2 En relaciones: 20 opciones es caos; 1 mujer alineada es construcci\u00c3\u00b3n y legado.\n\u00e2\u0080\u00a2 En consejos: 20 opiniones de mediocres generan duda; 1 mentor probado te da direcci\u00c3\u00b3n.\n\u00e2\u0080\u00a2 En negocios: 10 proyectos dispersos garantizan fracaso; 1 modelo ejecutado con disciplina construye riqueza.\n\u00e2\u0080\u00a2 En aprendizaje: consumir sin aplicar es ruido; estudiar y ejecutar es poder.\n\nNecesitas la valent\u00c3\u00ada de decepcionar expectativas externas para no traicionar tu propio futuro.\n\nElimina el ruido.\nCorta el exceso.\nDescubre la \u00c3\u00banica cosa que realmente mueve tu vida\u00e2\u0080\u00a6\ny di un NO absoluto a todo lo dem\u00c3\u00a1s.\n\n\u00f0\u009f\u0090\u00ba Si est\u00c3\u00a1s listo para enfocarte como un verdadero lobo, sigue @elmodolobo_\nAccede al enlace de la biograf\u00c3\u00ada y empieza hoy el Desaf\u00c3\u00ado de 40 d\u00c3\u00adas."
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://elrenacer40dias.shop/?utm_source=bio"
+              },
+              {
+                "label": "Name",
+                "value": "Modo Lobo"
+              },
+              {
+                "label": "Username",
+                "value": "elmodolobo_"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18278139970292380:1786879430::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879430,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcCNiaDj4vo/",
+        "href": "https://www.instagram.com/p/DcCNiaDj4vo/"
+      },
+      {
+        "label": "Caption",
+        "value": "SUBCAMPE\u00c3\u0093N NACIONAL \u00f0\u009f\u00a5\u0088\nNo, no es para nada lo que queriamos. Pero que queriamos? \u00f0\u009f\u00a4\u0094\nHace un a\u00c3\u00b1o no sabia si iba a volver a competir o me tenia que retirar.\nEl medico con el que hicimos el tratamiento, me dijo que en agosto me daba de alta y en agosto ya estabamos peleando la clasificaci\u00c3\u00b3n a los juegos ODESUR \u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f, entonces, no puedo quejarme. \nSi, me muero de bronca. Porque el dia que quiera hacer algo para divertirme, me busco un deporte mas divertido, seamos sinceros \u00f0\u009f\u0098\u0085...\nEste es nuestro nuevo punto de partida. Estoy muy bien, y seguimos trabajando muy fuerte, porque no conozco otra forma de hacer las cosas.\nEs mi momento de aplaudir y agradecer a mi equipo, con el coraz\u00c3\u00b3n. Y tambien a todos los que siguen apoyando desde afuera. \nPorque es un deporte individual, pero solo adentro del circulo. Gracias \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00a5\n.\n@walterarmoya\n@andresbiasinutriciondeportiva \n@daro_palazzo \n@ari_celdran\n@claudio.henschke \n@max.suplementosarg \n@centrodetraumatologiayartros"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://join.kast.xyz/click?offer_id=6&pub_id=255"
+              },
+              {
+                "label": "Name",
+                "value": "Juan Ignacio Carballo"
+              },
+              {
+                "label": "Username",
+                "value": "nachocarballo8"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18163919983461179:1786879430::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879430,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcEHbVCEXBV/",
+        "href": "https://www.instagram.com/p/DcEHbVCEXBV/"
+      },
+      {
+        "label": "Caption",
+        "value": "W4 D2 \u00f0\u009f\u008c\u00b6\u00ef\u00b8\u008f\n\nBanco Plano\n175kg x5\n180kg x2\n190kg x2\n170kg x4\n\nRemo con barra\n100kg 4x10\n\nJal\u00c3\u00b3n al pecho \n85kg 4x12\n\nPullover\n70kg 3x12\n\nB\u00c3\u00adceps \n35kg 4x10-12\n\nCODE TILO en\n@fullpowersports \n@suplementacion_laplata \n@eseesmipollolaplata \n@gorilamodee \n\n\u00f0\u009f\u008d\u0094 @lic.gianinafocarazzo \n\u00f0\u009f\u00a7\u0091\u00e2\u0080\u008d\u00f0\u009f\u008f\u00ab @faccugram_roadto180kgbench \n\u00f0\u009f\u008f\u00a1 @el_bosque_gym \n\n#powerlifting #fitness #gym #benchpress"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "label": "Caption",
+        "value": "W4 D2 \u00f0\u009f\u008c\u00b6\u00ef\u00b8\u008f\n\nBanco Plano\n175kg x5\n180kg x2\n190kg x2\n170kg x4\n\nRemo con barra\n100kg 4x10\n\nJal\u00c3\u00b3n al pecho \n85kg 4x12\n\nPullover\n70kg 3x12\n\nB\u00c3\u00adceps \n35kg 4x10-12\n\nCODE TILO en\n@fullpowersports \n@suplementacion_laplata \n@eseesmipollolaplata \n@gorilamodee \n\n\u00f0\u009f\u008d\u0094 @lic.gianinafocarazzo \n\u00f0\u009f\u00a7\u0091\u00e2\u0080\u008d\u00f0\u009f\u008f\u00ab @faccugram_roadto180kgbench \n\u00f0\u009f\u008f\u00a1 @el_bosque_gym \n\n#powerlifting #fitness #gym #benchpress"
+      },
+      {
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "powerlifting"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "benchpress"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "gym"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "fitness"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": "https://www.bigtilo.com"
+              },
+              {
+                "label": "Name",
+                "value": "Franco Leo Menazzi \u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00b7"
+              },
+              {
+                "label": "Username",
+                "value": "bigtilo"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:18452046913188030:1786879430::DYIImpressionsData"
+  },
+  {
+    "timestamp": 1786879430,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Ad library public URL"
+      },
+      {
+        "label": "Brand partner",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Brand partner's profile",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "URL",
+        "value": "https://www.instagram.com/p/DcFRhBHkV7AJC1gYaq605RHy24Q7bWWDJMNdfI0/",
+        "href": "https://www.instagram.com/p/DcFRhBHkV7AJC1gYaq605RHy24Q7bWWDJMNdfI0/"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Hashtags"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "URL",
+                "value": ""
+              },
+              {
+                "label": "Name",
+                "value": "bau\u00e2\u009a\u00bd"
+              },
+              {
+                "label": "Username",
+                "value": "lelli_bautista"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Owner"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Brand partner"
+      }
+    ],
+    "fbid": "17841424833244965:17924715207403215:1786879430::DYIImpressionsData"
+  }
+]

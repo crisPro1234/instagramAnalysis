@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Juan Cruz Lufin Martinez"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juan Cruz Lufin Martinez",
+      "timestamp_ms": 1785192870243,
+      "content": "JJAJAJJ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Cruz Lufin Martinez",
+      "timestamp_ms": 1785192869216,
+      "content": "Ahahah pense que si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1785192848674,
+      "content": "nono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Cruz Lufin Martinez",
+      "timestamp_ms": 1785192837271,
+      "content": "Mano a mano se juntaron??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1785192681999,
+      "content": "porq?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1785192674756,
+      "content": "jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Cruz Lufin Martinez",
+      "timestamp_ms": 1785192632920,
+      "content": "Me volvi loco",
+      "share": {
+        "link": "https://www.instagram.com/stories/_crisdiaz09/3950798985513465826"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan Cruz Lufin Martinez",
+  "is_still_participant": true,
+  "thread_path": "inbox/juancruzlufinmartinez_1713719413383365",
+  "magic_words": [
+    
+  ]
+}

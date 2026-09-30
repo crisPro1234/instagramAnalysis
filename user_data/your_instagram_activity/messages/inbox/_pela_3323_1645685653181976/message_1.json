@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "_pela_3323"
+    },
+    {
+      "name": "_crisdiaz09"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1781738068075,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "_crisdiaz09",
+      "timestamp_ms": 1781738060840,
+      "content": "seguime dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "_pela_3323",
+  "is_still_participant": true,
+  "thread_path": "inbox/_pela_3323_1645685653181976",
+  "magic_words": [
+    
+  ]
+}

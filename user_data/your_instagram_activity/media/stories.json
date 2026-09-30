@@ -1,0 +1,54 @@
+{
+  "ig_stories": [
+    {
+      "uri": "media/stories/202608/18124019287688552.webp",
+      "creation_timestamp": 1785680317,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "device_id": "android-4d0d342d74728b00",
+              "camera_position": "unknown",
+              "source_type": "reel_reshare"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      }
+    },
+    {
+      "uri": "media/stories/202607/18108765224016627.mp4",
+      "creation_timestamp": 1785191944,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "device_id": "android-4d0d342d74728b00",
+              "camera_position": "unknown",
+              "source_type": "reel_reshare"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ],
+      "media_variants": [
+        
+      ]
+    }
+  ]
+}

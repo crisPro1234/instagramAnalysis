@@ -1,0 +1,165 @@
+{
+  "timestamp": 1779553795,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Visual reply using existing media"
+    },
+    {
+      "label": "Upload identifier",
+      "value": ""
+    },
+    {
+      "label": "Amount raised",
+      "value": "0"
+    },
+    {
+      "label": "Media",
+      "media": [
+        {
+          "uri": "media/other/18230933893309726.jpg",
+          "creation_timestamp": 1779553795,
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Draft",
+      "value": "False"
+    },
+    {
+      "label": "Marked as AI generated"
+    },
+    {
+      "label": "Paid partnership",
+      "value": "False"
+    },
+    {
+      "label": "Published",
+      "value": "True"
+    },
+    {
+      "label": "Expiry time",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Metadata",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "Visibility"
+    },
+    {
+      "label": "Hide like and view counts"
+    },
+    {
+      "label": "Who can reply to your post"
+    },
+    {
+      "label": "Subtype",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Latitude",
+      "value": "0"
+    },
+    {
+      "label": "Longitude",
+      "value": "0"
+    },
+    {
+      "label": "Creation time",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Story type"
+    },
+    {
+      "label": "File size in bytes",
+      "value": "0"
+    },
+    {
+      "label": "Draft identifier",
+      "value": ""
+    },
+    {
+      "label": "Hidden from profile but shown in feed"
+    },
+    {
+      "label": "Original width",
+      "value": "0"
+    },
+    {
+      "label": "Original height",
+      "value": "0"
+    },
+    {
+      "label": "Is an advertisement",
+      "value": "False"
+    },
+    {
+      "label": "Reply approval required"
+    },
+    {
+      "label": "Update time",
+      "timestamp_value": 1779553797
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Media"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Metadata"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Hashtags"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Place"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Reel metadata"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Repost"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Brand partner"
+    }
+  ],
+  "fbid": "18230933893309726"
+}
